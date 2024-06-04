@@ -5,9 +5,9 @@
         ],
         "target": {
             "namespace": "android_app",
-            "package_name": "com.example.oke_gas_app",
+            "package_name": "com.example.deeplink_tester",
             "sha256_cert_fingerprints": [
-                "19:61:45:C3:53:0A:7E:EA:1A:04:B5:7F:17:6D:8B:99:B1:3C:3D:72:E8:7A:6A:28:92:FE:E3:A1:DE:20:FD:FA"
+                "A5:E0:75:CD:AD:94:F9:D6:38:06:F4:6B:63:9D:F6:02:5A:BD:BB:A6:54:85:45:CA:4C:E1:38:66:C4:8C:EE:08"
             ]
         }
     }
